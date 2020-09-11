@@ -1,7 +1,7 @@
 # STA5635-Applied-Machine-Learning
 FSU STA5635 Applied Machine Learning Course FALL 2019
 
-## Prerequisites:
+## Requirements:
 
 The following items should be installed in your system:
 * Python 3
